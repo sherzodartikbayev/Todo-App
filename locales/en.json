@@ -1,0 +1,14 @@
+{
+	"title": "Todo",
+	"description": "",
+	"list": "List",
+	"create": "Create",
+	"delete": "Delete",
+	"update": "Update",
+	"notTodo": "You have not created todo yet.",
+	"english": "English",
+	"russian": "Русский",
+	"uzbek": "O'zbekcha",
+	"logIn": "Log In",
+	"signUp": "Sign Up"
+}
