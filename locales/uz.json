@@ -1,3 +1,15 @@
 {
-	"title": "Ro'yxat"
+	"title": "Vazifalar",
+	"list": "Ro'yxat",
+	"create": "Yaratish",
+	"add": "Qo'shish",
+	"delete": "O'chirish",
+	"update": "Yangilash",
+	"inputPlaceholder": "Yangi vazifani qo'shing",
+	"notTodo": "Siz hali vazifa yaratmagansiz.",
+	"english": "English",
+	"russian": "Русский",
+	"uzbek": "O'zbekcha",
+	"logIn": "Kirish",
+	"signUp": "Ro'yxatdan o'tish"
 }

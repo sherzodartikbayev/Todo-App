@@ -1,3 +1,15 @@
 {
-	"title": "Тодо"
+	"title": "Задачи",
+	"list": "Список",
+	"create": "Создать",
+	"add": "Добавить",
+	"delete": "Удалить",
+	"update": "Обновить",
+	"inputPlaceholder": "Добавьте новую задачу",
+	"notTodo": "Вы еще не создали задачи.",
+	"english": "English",
+	"russian": "Русский",
+	"uzbek": "O'zbekcha",
+	"logIn": "Войти",
+	"signUp": "Регистрация"
 }

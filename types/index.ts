@@ -7,3 +7,8 @@ export interface ChildProps {
 export interface LngParams {
 	params: { lng: string }
 }
+
+export interface ITodoItem {
+	id: string | number
+	title: string
+}

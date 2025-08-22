@@ -1,14 +1,10 @@
-'use client'
-
-import useTranslate from '@/hooks/use-translate'
+import TodoCard from '@/components/cards/todo.card'
 
 function Page() {
-	const t = useTranslate()
-
 	return (
 		<section className=''>
 			<div className='container max-w-7xl mx-auto w-full min-h-[80vh] flex items-center justify-center'>
-				<h1 className='text-5xl font-bold text-center'>{t('title')}</h1>
+				<TodoCard />
 			</div>
 		</section>
 	)

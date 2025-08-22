@@ -1,10 +1,11 @@
 {
 	"title": "Todo",
-	"description": "",
 	"list": "List",
 	"create": "Create",
+	"add": "Add",
 	"delete": "Delete",
 	"update": "Update",
+	"inputPlaceholder": "Add your new todo",
 	"notTodo": "You have not created todo yet.",
 	"english": "English",
 	"russian": "Русский",
